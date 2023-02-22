@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'http://heathybody.com'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'Heathy Body'
 theme = 'netlify-basic'
